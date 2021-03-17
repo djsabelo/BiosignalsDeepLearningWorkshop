@@ -1,0 +1,6 @@
+f1o04m 2 250 1000000
+f1o04m.mat 16+192 2000/mV 16 0 16328 4488 0 RESP
+f1o04m.mat 16+192 2000/mV 16 0 16392 -31744 0 ECG
+# Age: 81 Sex: M
+#Creator: wfdb2mat
+#Source: record fantasia/f1o04
